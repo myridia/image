@@ -1,3 +1,4 @@
+<img src="image.svg" alt="image" width="120">
 # image
 Include binary data to images
 
